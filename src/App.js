@@ -11,7 +11,7 @@ class App extends Component {
     }
 
     componentDidMount() {
-        this.handleSubmit('pdf generation with react and node')
+        this.handleSubmit('babies')
     }
 
     onVideoSelect = (video) => {
