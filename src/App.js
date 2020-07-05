@@ -11,7 +11,7 @@ class App extends Component {
     }
 
     componentDidMount() {
-        this.handleSubmit('babies')
+        this.handleSubmit('architecture')
     }
 
     onVideoSelect = (video) => {
